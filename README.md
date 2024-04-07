@@ -48,3 +48,7 @@ streamlit run app.py
 ```
 
 This will launch the web interface where users can interact with the chatbot to inquire about Access capability information.
+
+## Example
+![Example Image](example.jpeg)
+
