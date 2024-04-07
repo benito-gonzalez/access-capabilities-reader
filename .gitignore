@@ -1,0 +1,7 @@
+.idea/*
+src/__init__.py
+src/__pycache__/*
+data
+chroma_db
+.env
+.streamlit/

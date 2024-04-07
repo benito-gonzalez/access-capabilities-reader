@@ -1,0 +1,8 @@
+bs4
+requests
+pandas
+pdfplumber
+chromadb
+streamlit
+llama-index
+
